@@ -1,3 +1,4 @@
+//fractional knapsack using dynamic programming 1/0
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
